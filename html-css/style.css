@@ -1,3 +1,10 @@
+* {
+  font-family: Manrope;
+}
+.nav-links a,
+.nav-links button {
+  font-family: roboto, arial, helvetica;
+}
 header {
   height: 741px;
   width: 100%;
@@ -17,6 +24,7 @@ header {
   font-weight: 700;
   font-size: 14px;
   line-height: 16px;
+  width: 167px;
 }
 .text-white {
   text-decoration: none;
@@ -34,9 +42,28 @@ header {
   font-size: 40px;
   line-height: 56px;
   word-break: break-all;
-
   text-align: right;
 }
 .company-name {
   color: #72aaff;
+}
+.benefits {
+  margin-bottom: 50px;
+}
+.benefits,
+.main-benefits {
+  width: 100%;
+}
+.benefits-heading {
+  width: 766px;
+}
+.benefit {
+  width: 275px;
+}
+#aurdic-3-min {
+  max-width: 929px;
+  min-width: 300px;
+  max-height: 523px;
+  min-height: 220px;
+  border: none;
 }
