@@ -35,12 +35,15 @@ header {
   font-size: 14px;
   line-height: 16px;
 }
-.header-text {
-  width: 590px;
-  height: 168px;
+.header-text,
+.feature-paragraph {
   font-weight: 700;
   font-size: 40px;
   line-height: 56px;
+}
+.header-text {
+  width: 590px;
+  height: 168px;
   word-break: break-all;
   text-align: right;
 }
@@ -66,4 +69,26 @@ header {
   max-height: 523px;
   min-height: 220px;
   border: none;
+}
+.features {
+  width: 100%;
+}
+.features-card {
+  max-width: 50%;
+  min-width: 330px;
+  height: 620px;
+  background: #f5f6f7;
+  mix-blend-mode: normal;
+}
+#aurdic-strider-7 {
+  height: 100%;
+}
+.features-column {
+  width: 347px;
+}
+.feature-header {
+}
+.feature-paragraph {
+}
+.feature-button {
 }
