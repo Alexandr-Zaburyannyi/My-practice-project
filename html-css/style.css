@@ -86,9 +86,41 @@ header {
 .features-column {
   width: 347px;
 }
-.feature-header {
+.description {
+  background: black;
+  width: 100%;
+  height: 830px;
+  background-image: url('./../images/IMG31796-scaled-e1650260675171.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
-.feature-paragraph {
+.description-header {
+  width: 543px;
+  max-height: 168px;
+  min-height: 100px;
+  font-weight: 700;
+  word-wrap: wrap;
+  word-break: keep-all;
 }
-.feature-button {
+.description-paragraph {
+  width: 275px;
+  height: 108px;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 18px;
+}
+.description-statistics {
+  max-width: 310px;
+  min-width: 290px;
+}
+.row {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  background: linear-gradient(90deg, #59bddd 0.81%, #00485f 98.71%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+  background-clip: text;
 }
