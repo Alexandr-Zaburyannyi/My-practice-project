@@ -21,7 +21,6 @@ header {
 .btn-outline-light {
   border-radius: 0;
   font-style: normal;
-  font-weight: 700;
   font-size: 14px;
   line-height: 16px;
   width: 167px;
@@ -37,7 +36,6 @@ header {
 }
 .header-text,
 .feature-paragraph {
-  font-weight: 700;
   font-size: 40px;
   line-height: 56px;
 }
@@ -113,7 +111,7 @@ header {
   max-width: 310px;
   min-width: 290px;
 }
-.row {
+.description-row {
   font-weight: 700;
   font-size: 24px;
   line-height: 33px;
@@ -123,4 +121,45 @@ header {
   -moz-background-clip: text;
   -moz-text-fill-color: transparent;
   background-clip: text;
+}
+#case-1 {
+  width: 590px;
+  height: 398px;
+}
+
+#case-2 {
+  width: 767px;
+  height: 318px;
+}
+
+.case-header {
+  font-size: 60px;
+  line-height: 76px;
+}
+.case-paragraph {
+  width: 275px;
+  height: 312px;
+}
+#glass {
+  height: 454px;
+  width: 454px;
+}
+.glass {
+  height: 529px;
+  background: linear-gradient(0.57deg, #131313 0.42%, #1b1b1b 99.44%);
+}
+.glass-border {
+  width: 528px;
+}
+.luminous-container {
+  width: 1160px;
+  height: 640px;
+  background: #000000;
+}
+#luminous {
+  width: 594px;
+  height: 640px;
+}
+.luminous-color {
+  color: #afffc4;
 }
