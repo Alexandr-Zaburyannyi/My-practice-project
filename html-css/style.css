@@ -163,3 +163,75 @@ header {
 .luminous-color {
   color: #afffc4;
 }
+.slider-img {
+  width: 100.29px;
+}
+#img-slider {
+  width: 400px;
+  height: 731px;
+}
+.img-container {
+  width: 580px;
+  height: 730px;
+  background: url('../images/Rectangle\ 153.png');
+}
+.dot {
+  width: 12.76px;
+  height: 13px;
+  background: #020202;
+  border-radius: 40px;
+}
+.dot-active {
+  background: #d9d9d9;
+}
+.slider-btn {
+  width: 31px;
+  height: 31px;
+  margin-bottom: 85px;
+}
+.slider-dots {
+  width: 100.29px;
+}
+.image-slider {
+  width: 550px;
+}
+.menu-btns div {
+  width: 373.02px;
+  height: 36px;
+}
+
+.color-radio-btn {
+  width: 177px;
+  min-height: 58px;
+  padding: 12px 32px;
+  gap: 10px;
+}
+.radio-btn-color-border {
+  border: 0.5px solid #adadad;
+}
+.color-option {
+  width: 56px;
+  height: 34px;
+}
+#copper-cream {
+  background: #d9d0b1;
+}
+#forest-green {
+  background: #658f7a;
+}
+#carbon-black {
+  background: #424242;
+}
+#alpine-white {
+  background: #e5e3e1;
+}
+.color {
+  width: 20px;
+  height: 20px;
+}
+.choice-name {
+  font-weight: 600;
+  font-size: 8px;
+  line-height: 11px;
+  text-transform: capitalize;
+}
